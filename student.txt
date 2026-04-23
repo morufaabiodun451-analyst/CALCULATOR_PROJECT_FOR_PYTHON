@@ -1,0 +1,5 @@
+morufa 90 A
+lawrence 78 B
+dami 67 C
+tade 57 C
+fola 45 F
