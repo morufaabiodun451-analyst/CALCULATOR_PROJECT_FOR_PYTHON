@@ -1,7 +1,7 @@
 {
     "python-envs.pythonProjects": [
         {
-            "path": "task_utils.py",
+            "path": "task_utility.py",
             "envManager": "ms-python.python:venv",
             "packageManager": "ms-python.python:pip"
         }
